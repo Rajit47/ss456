@@ -1,0 +1,135 @@
+what is html
+
+	hypertext markup language
+	
+why html
+
+how it works
+	
+project folder
+
+project files
+
+file extention
+
+editor
+
+html template
+	<!doctype html>
+	html
+		head - file support - link up - 
+		body - content - 
+	html
+
+
+
+html version 
+
+web - 
+	add
+	delete
+	modify
+
+	1.0
+	1.1
+
+
+
+hemal - attendace - 
+kona  - point, hw, 
+mehedy - post hw - 
+
+
+
+html content 
+	title
+		h1
+		h2
+		h3
+		h4
+		h5
+		h6
+
+	text
+		p
+
+	image - img - src + alt
+		download - best 
+		cdn - 
+
+		free search
+		w h - 
+
+	file path - 
+
+	link
+		internal - home contact
+		external - fb -  
+
+		<a>
+
+
+code comment
+	<!--  -->
+
+element - starting + content + ending
+
+tag - 
+
+attirbute - additional data - name="value" - pair
+
+
+speed opt 
+	content 
+		text - fast
+		image - 
+		audio
+		video
+		map  
+
+seo 
+	h1 - h6
+	p
+	img - image name, tag, title, alt
+	strong, em
+
+---------------------
+css meaning
+
+how it works
+
+3 types of css
+	inline   - 
+	internal -
+	external - use
+
+css syntax
+	selector{
+		property:values;
+	}
+
+css selector
+
+css power
+-------------------------------
+different type of css selctor
+
+	tag
+	element
+	id
+	class
+
+css power
+
+
+measurement unit
+
+color
+
+margin padding
+
+box model concept
+
+display
+
+markup validation - html 
